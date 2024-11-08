@@ -172,8 +172,8 @@ export const imageGenModels: Model[] = [{
     provider: 'workers-ai-image',
     type: 'text-to-image'
 }, {
-    id: '@cf/black-forest-labs/flux-1-schnell',
-    name: 'flux-1-schnell',
+    id: '@cf/stabilityai/stable-diffusion-xl-base-1.0',
+    name: 'stable-diffusion-xl-base-1.0',
     provider: 'workers-ai-image',
     type: 'text-to-image'
 }, {
